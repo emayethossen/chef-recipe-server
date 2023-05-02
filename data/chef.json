@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1,
+        "name": "Nadia Hussain",
+        "pic": "https://media.istockphoto.com/id/1298088270/photo/young-beautiful-smiling-woman-chef-with-arms-crossed-at-kitchen.jpg?s=612x612&w=0&k=20&c=ZtYaFLtiRkuA6mQ8HK05xjZNvpb4ev2BS9g2Uc6mdww=",
+        "years_of_experience": 20,
+        "num_of_recipes": 100,
+        "likes": 20000,
+        "bio": "Nadia Hussain is a famous Bangladeshi chef, entrepreneur, and television personality. She is the winner of the popular TV show MasterChef Bangladesh and has been a judge on various cooking shows. With over 20 years of experience in the food industry, she has authored several cookbooks and runs her own bakery and culinary school."
+    },
+    {
+        "id": 2,
+        "name": "Mridula Baljekar",
+        "pic": "https://media.istockphoto.com/id/866699668/photo/gourmet-chef-cooking-in-a-commercial-kitchen.jpg?s=612x612&w=0&k=20&c=rvWTwbW54nIHwsZIjSU8TzX1_VQqzAnjjJuWm5zOlhw=",
+        "years_of_experience": 30,
+        "num_of_recipes": 75,
+        "likes": 15000,
+        "bio": "Mridula Baljekar is a renowned Bangladeshi chef, author, and food consultant based in London. With over 30 years of experience in the food industry, she has authored several cookbooks and has won numerous awards for her contributions to the food industry. She has also appeared on several TV shows as a guest chef and judge."
+    },
+    {
+        "id": 3,
+        "name": "Zakir Khan",
+        "pic": "https://media.istockphoto.com/id/877309726/photo/male-chef-garnishing-food-in-kitchen.jpg?s=612x612&w=0&k=20&c=U2wynKNuBJSd86sqyY3ivCT3EsqmllPe4k1cDwOgVLc=",
+        "years_of_experience": 15,
+        "num_of_recipes": 50,
+        "likes": 10000,
+        "bio": "Zakir Khan is a popular Bangladeshi chef, author, and television personality. He is known for his simple yet delicious recipes and has authored several cookbooks. He has also been a judge on various cooking shows and has his own TV show where he shares his recipes and cooking tips."
+    },
+    {
+        "id": 4,
+        "name": "Sadia Dehlvi",
+        "pic": "https://images.unsplash.com/photo-1556911073-52527ac43761?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fHRoZSUyMGNvb2slMjBjaGVmfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=400&q=60",
+        "years_of_experience": 25,
+        "num_of_recipes": 80,
+        "likes": 18000,
+        "bio": "Sadia Dehlvi was a famous Bangladeshi chef, author, and journalist. She was known for her contributions to the food industry and has authored several cookbooks. She was also a columnist for various newspapers and magazines, where she wrote about food, culture, and social issues."
+    },
+    {
+        "id": 5,
+        "name": "Sanjeev Kapoor",
+        "pic": "https://images.unsplash.com/photo-1556911220-dabc1f02913a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fHRoZSUyMGNvb2slMjBjaGVmfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=400&q=60",
+        "years_of_experience": 35,
+        "num_of_recipes": 150,
+        "likes": 50000,
+        "bio": "Sanjeev Kapoor is a renowned Bangladeshi chef, entrepreneur, and television personality. He is the host of the popular cooking show Khana Khazana and has authored over 150 cookbooks. With over 35 years of experience in the food industry, he has won numerous awards for his contributions to the food industry and has his own chain of restaurants."
+    },
+    {
+        "id": 6,
+        "name": "John Smith",
+        "picture": "https://media.istockphoto.com/id/1059836070/photo/action-portrait-of-male-chef-tossing-ingredients-in-bowl.jpg?s=612x612&w=0&k=20&c=ZvEX3WWVSXEV9B7JO2iHOhIAK1t34IuphZ2J36oy7tI=",
+        "experience_years": 10,
+        "recipes_count": 50,
+        "likes_count": 1000,
+        "bio": "John Smith is a professional chef with 10 years of experience in the culinary arts. He has a passion for creating new and innovative dishes that combine different flavors and textures. John has worked in some of the finest restaurants around the world and has won numerous awards for his culinary creations. He enjoys experimenting with different ingredients and techniques to create dishes that are both delicious and visually appealing."
+    },
+    {
+        "id": 7,
+        "name": "Samantha Lee",
+        "picture": "https://media.istockphoto.com/id/1142230160/photo/beautiful-chef-working-in-a-kitchen-at-a-restaurant.jpg?b=1&s=170667a&w=0&k=20&c=Kn5CHqNaENC_X3SNRRQ1E3dnABmhKh8nUbVDdhtEZ4o=",
+        "experience_years": 8,
+        "recipes_count": 40,
+        "likes_count": 800,
+        "bio": "Samantha Lee is a chef who specializes in healthy and nutritious meals. She has a background in nutrition and uses her knowledge to create dishes that are not only delicious but also good for your body. Samantha has worked in some of the best health and wellness spas around the world and has developed a loyal following of health-conscious foodies. She enjoys using fresh, local, and organic ingredients in her cooking to create dishes that are both flavorful and healthy."
+    },
+    {
+        "id": 8,
+        "name": "David Chang",
+        "picture": "https://media.istockphoto.com/id/520230372/photo/chef-making-a-salad-at-a-restaurant.jpg?s=612x612&w=0&k=20&c=fkx5wmRHmOee3OrOiScJW5twgwu6lINhjTilZrwMfqE=",
+        "experience_years": 15,
+        "recipes_count": 70,
+        "likes_count": 1200,
+        "bio": "David Chang is a chef and restaurateur who is known for his bold and innovative dishes. He has worked in some of the best restaurants in the world and has won multiple James Beard Awards for his contributions to the culinary arts. David is the founder of the Momofuku restaurant group, which has locations around the world. He enjoys experimenting with different ingredients and techniques to create dishes that push the boundaries of traditional cuisine."
+    },
+    {
+        "id": 9,
+        "name": "Alice Waters",
+        "picture": "https://media.istockphoto.com/id/629204092/photo/chef-working-at-a-restaurant.jpg?s=612x612&w=0&k=20&c=xo9K73U52sEWC-KI9G-86NO4IYEW31TWOnZtBlpLWuw=",
+        "experience_years": 30,
+        "recipes_count": 100,
+        "likes_count": 1500,
+        "bio": "Alice Waters is a chef, author, and food activist who is known for her commitment to sustainable and organic agriculture. She is the founder of Chez Panisse, a restaurant in Berkeley, California that is known for its locally sourced and seasonal ingredients. Alice has written several books on cooking and food, including 'The Art of Simple Food' and 'Chez Panisse Cooking'. She is a leading voice in the Slow Food movement and is passionate about promoting the importance of good food and sustainable agriculture."
+    }
+]
