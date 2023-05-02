@@ -6,45 +6,91 @@
         "recipes": [
             {
                 "id": 1,
-                "image": "https://media.istockphoto.com/id/1375039697/photo/healthy-fruits-and-vegetables-salad-recipe.jpg?b=1&s=170667a&w=0&k=20&c=YzWsM-BQitBf9og-RKD9AEVtnzQ79yVeso6gzSNaXF4=",
-                "name": "Spicy Thai Chicken",
-                "rating": 4.8,
-                "price": 12.99
+                "image": "https://media.istockphoto.com/id/1166681454/photo/spaghetti-with-bolognese-sauce-and-parmesan-cheese.jpg?b=1&s=170667a&w=0&k=20&c=LVl4FsQFzt1GQfiXdBECamV3bv604j0400LVzS5ahFM=",
+                "name": "Spaghetti Bolognese",
+                "ingredients": [
+                    "spaghetti",
+                    "ground beef",
+                    "tomatoes",
+                    "onion",
+                    "garlic"
+                ],
+                "method": "1. Cook spaghetti according to package instructions. \n2. Brown ground beef in a pan. \n3. Add chopped onions and garlic and cook until onions are soft. \n4. Add chopped tomatoes and let simmer until sauce thickens. \n5. Serve sauce over cooked spaghetti.",
+                "rating": 4.5,
+                "price": 10.99
             },
             {
                 "id": 2,
-                "image": "https://media.istockphoto.com/id/1452024920/photo/a-glass-of-green-celery-juice-celery-drink-prepared-for-healthy-nutrition-and-detox.jpg?b=1&s=170667a&w=0&k=20&c=xsZyt6X_OLignVF7HQtgy52SkkAmVZslNudWoK6M1TY=",
-                "name": "Italian Lasagna",
-                "rating": 4.5,
-                "price": 14.99
+                "image": "https://media.istockphoto.com/id/1308448446/photo/grilled-cheese-spinach-and-tomato-sandwich-on-concrete-background.jpg?b=1&s=170667a&w=0&k=20&c=Npk4E1SSIeW5wXnewU0-Fn6jq4BpG20lBB0_T4uL_0M=",
+                "name": "Grilled Cheese Sandwich",
+                "ingredients": [
+                    "bread",
+                    "cheese",
+                    "butter"
+                ],
+                "method": "1. Butter one side of each slice of bread. \n2. Place cheese between the slices of bread with the buttered side facing outwards. \n3. Grill the sandwich on a heated pan until cheese is melted and bread is toasted.",
+                "rating": 4.2,
+                "price": 5.99
             },
             {
                 "id": 3,
-                "image": "https://media.istockphoto.com/id/1400656321/photo/homemade-cheese-smash-burger.jpg?b=1&s=170667a&w=0&k=20&c=8fjw6SEeNqKQg1fn4X0xRDiQET4slAjVrqGYBEnPDIo=",
-                "name": "Mexican Quesadilla",
-                "rating": 4.3,
-                "price": 9.99
+                "image": "https://media.istockphoto.com/id/1311491582/photo/chilli-paneer-indian-snack-food.jpg?b=1&s=170667a&w=0&k=20&c=3H6Ho6Dwgr7lHSaew3qmxn7pfhx2UY8rAZ2uyzI7ui4=",
+                "name": "Chicken Tikka Masala",
+                "ingredients": [
+                    "chicken",
+                    "yogurt",
+                    "tomatoes",
+                    "onion",
+                    "spices"
+                ],
+                "method": "1. Marinate chicken in yogurt and spices for 30 minutes. \n2. Grill or bake chicken until cooked. \n3. Saute onions in a pan until softened. \n4. Add chopped tomatoes and let simmer until sauce thickens. \n5. Add cooked chicken to the sauce and serve with rice.",
+                "rating": 4.7,
+                "price": 14.99
             },
             {
                 "id": 4,
-                "image": "https://media.istockphoto.com/id/1391252293/photo/asian-fried-rice-served-with-beef-bell-peppers-vegetables-beautifully-presented-on-a-white.jpg?b=1&s=170667a&w=0&k=20&c=aCncwS4GlDkhFgTJQ0O6DvqLqLjREo5yysjdtj5h_cM=",
-                "name": "Indian Butter Chicken",
-                "rating": 4.9,
-                "price": 11.99
+                "image": "https://media.istockphoto.com/id/184991676/photo/caesar-salad.jpg?b=1&s=170667a&w=0&k=20&c=xti3PiOo6MGK-vIs30QHXRjZAf4vP4S2WMOKAlcSAlY=",
+                "name": "Caesar Salad",
+                "ingredients": [
+                    "romaine lettuce",
+                    "croutons",
+                    "parmesan cheese",
+                    "Caesar dressing",
+                    "anchovy paste"
+                ],
+                "method": "1. Wash and chop lettuce. \n2. Toss lettuce with croutons, parmesan cheese, and Caesar dressing. \n3. Add a small amount of anchovy paste for extra flavor if desired.",
+                "rating": 4.0,
+                "price": 8.99
             },
             {
                 "id": 5,
-                "image": "https://media.istockphoto.com/id/497784792/photo/chicken-biryani.jpg?b=1&s=170667a&w=0&k=20&c=F3L4dtO0xsPoDY0ISn_zRTpYJLE_YyQDvQnd6Q3ItlY=",
-                "name": "Japanese Sushi Rolls",
-                "rating": 4.7,
-                "price": 16.99
+                "image": "https://media.istockphoto.com/id/607960288/photo/beef-meat-stewed-with-potatoes.jpg?b=1&s=170667a&w=0&k=20&c=viSEjTE_wTV4S8d31lnil-oR9cri88Paxl5UwLs2QbU=",
+                "name": "Beef Stew",
+                "ingredients": [
+                    "beef stew meat",
+                    "carrots",
+                    "potatoes",
+                    "onion",
+                    "beef broth"
+                ],
+                "method": "1. Brown beef in a pot. \n2. Add chopped onions and cook until softened. \n3. Add beef broth, carrots, and potatoes. \n4. Simmer until vegetables are cooked and beef is tender.",
+                "rating": 4.3,
+                "price": 12.99
             },
             {
                 "id": 6,
-                "image": "https://media.istockphoto.com/id/497784792/photo/chicken-biryani.jpg?b=1&s=170667a&w=0&k=20&c=F3L4dtO0xsPoDY0ISn_zRTpYJLE_YyQDvQnd6Q3ItlY=",
-                "name": "French Onion Soup",
-                "rating": 4.2,
-                "price": 8.99
+                "image": "https://media.istockphoto.com/id/1265001647/photo/chocolate-chip-cookies.jpg?b=1&s=170667a&w=0&k=20&c=AfV7MS8uGHvdGE1dsE-UUnaymrn5aT3lkQsQRNMWMP8=",
+                "name": "Chocolate Chip Cookies",
+                "ingredients": [
+                    "flour",
+                    "butter",
+                    "sugar",
+                    "chocolate chips",
+                    "egg"
+                ],
+                "method": "1. Cream butter and sugar together. \n2. Mix in egg. \n3. Add flour and mix until combined. \n4. Stir in chocolate chips. \n5. Drop spoonfuls of dough onto a baking sheet and bake at 375°F for 8-10 minutes.",
+                "rating": 4.9,
+                "price": 6.99
             }
         ],
         "experience_years": 10,
@@ -55,6 +101,97 @@
     {
         "id": 2,
         "name": "Samantha Lee",
+        "recipes": [
+            {
+                "id": 1,
+                "image": "https://media.istockphoto.com/id/1446832369/photo/top-view-of-a-shorshe-ilish-a-fish-cooking-with-mustard-seed-famous-bengali-food-white.jpg?b=1&s=170667a&w=0&k=20&c=vyArV_wZjMxyLspxcMZTirkExeAGL1TH4fSJXLMErEY=",
+                "name": "Shorshe Ilish",
+                "ingredients": [
+                    "Hilsa fish",
+                    "mustard oil",
+                    "mustard seeds",
+                    "green chilies",
+                    "turmeric powder"
+                ],
+                "method": "1. Clean and slice the Hilsa fish into pieces. \n2. Grind mustard seeds and green chilies into a paste. \n3. Heat mustard oil in a pan and add the paste. \n4. Add turmeric powder and salt to taste. \n5. Add the Hilsa pieces and cook for 10-12 minutes.",
+                "rating": 4.8,
+                "price": 16.99
+            },
+            {
+                "id": 2,
+                "image": "https://media.istockphoto.com/id/1254275117/photo/indian-and-bengali-favourite-combo-bhaat-and-chingri-malai-curry.jpg?b=1&s=170667a&w=0&k=20&c=1wPaSTMoAQOWJH_nFC14_9uK_SyAJcYGxmHj4RXZILA=",
+                "name": "Chingri Malai Curry",
+                "ingredients": [
+                    "prawns",
+                    "coconut milk",
+                    "onion",
+                    "garlic",
+                    "ginger"
+                ],
+                "method": "1. Heat oil in a pan and sauté onions, garlic, and ginger. \n2. Add prawns and cook until they turn pink. \n3. Add coconut milk and bring to a boil. \n4. Reduce heat and let simmer for 10-12 minutes. \n5. Add salt to taste and garnish with coriander leaves. Serve with rice.",
+                "rating": 4.5,
+                "price": 18.99
+            },
+            {
+                "id": 3,
+                "image": "https://media.istockphoto.com/id/1454433141/photo/sindhi-chicken-biryani-or-chicken-pulao-with-raita-and-salad-served-in-plate-isolated-on.jpg?b=1&s=170667a&w=0&k=20&c=1HPKf0jUeQd3WKljPvhBIfJXgvkmBrj288uuqHFOfHU=",
+                "name": "Morog Polao",
+                "ingredients": [
+                    "chicken",
+                    "rice",
+                    "onion",
+                    "yogurt",
+                    "ghee"
+                ],
+                "method": "1. Marinate chicken in yogurt and spices for 30 minutes. \n2. Heat ghee in a pan and sauté onions. \n3. Add the marinated chicken and cook until browned. \n4. Add rice and water and bring to a boil.",
+                "rating": 4.2,
+                "price": 14.99
+            },
+            {
+                "id": 4,
+                "image": "https://media.istockphoto.com/id/1364964344/photo/butaniku-no-t%C5%8Dny%C5%AB-nabe.jpg?b=1&s=170667a&w=0&k=20&c=pNvtU9S_OdwmCxAybzudkdL20tknLaQvQVfvlXjRxww=",
+                "name": "Bhuna Khichuri",
+                "ingredients": [
+                    "rice",
+                    "lentils",
+                    "potatoes",
+                    "onion",
+                    "spices"
+                ],
+                "method": "1. Wash rice and lentils and soak in water for 30 minutes. \n2. Heat oil in a pan and sauté onions and potatoes. \n3. Add the soaked rice and lentils, spices, and water. \n4. Cook for 20-25 minutes.",
+                "rating": 4.0,
+                "price": 8.99
+            },
+            {
+                "id": 5,
+                "image": "https://media.istockphoto.com/id/964794072/photo/fried-ribs-with-rosemary-potatoes-rustic-onion-sauce-on-wooden-round-board-dark-background.jpg?b=1&s=170667a&w=0&k=20&c=TKGFRvsgNBCFwUl1XZVfMQ0Rbxt5dPV0x3yMfeANXmE=",
+                "name": "Beef Bhuna",
+                "ingredients": [
+                    "beef",
+                    "onion",
+                    "garlic",
+                    "ginger"
+                ],
+                "method": "1. Marinate beef with spices for 30 minutes. \n2. Heat oil in a pan and sauté onions, garlic, and ginger. \n3. Add the marinated beef and cook until browned. \n4. Add water and cook for 30-35 minutes until the beef is fully cooked.",
+                "rating": 4.3,
+                "price": 22.99
+            },
+            {
+                "id": 6,
+                "image": "https://media.istockphoto.com/id/1166893356/photo/traditional-italian-food-baked-eggplant-tomatoes-with-sauce-parmesan-and-basil-rustic-food.jpg?b=1&s=170667a&w=0&k=20&c=qx6x-v4MywSNLyPlniUzcme0Z1UUD_QBmdx6qGXfANs=",
+                "name": "Begun Bhaja",
+                "ingredients": [
+                    "eggplant",
+                    "turmeric powder",
+                    "red chili powder",
+                    "salt",
+                    "oil"
+                ],
+                "method": "1. Cut eggplant into thin slices and sprinkle turmeric powder, red chili powder, and salt on them. \n2. Heat oil in a pan and shallow fry the eggplant slices until golden brown. \n3. Drain the excess oil and serve hot as a side dish.",
+                "rating": 4.1,
+                "price": 6.99
+            }
+        ],
         "picture": "https://media.istockphoto.com/id/1142230160/photo/beautiful-chef-working-in-a-kitchen-at-a-restaurant.jpg?b=1&s=170667a&w=0&k=20&c=Kn5CHqNaENC_X3SNRRQ1E3dnABmhKh8nUbVDdhtEZ4o=",
         "experience_years": 8,
         "recipes_count": 40,
@@ -63,65 +200,403 @@
     },
     {
         "id": 3,
-        "name": "Samantha Lee",
-        "picture": "https://media.istockphoto.com/id/1142230160/photo/beautiful-chef-working-in-a-kitchen-at-a-restaurant.jpg?b=1&s=170667a&w=0&k=20&c=Kn5CHqNaENC_X3SNRRQ1E3dnABmhKh8nUbVDdhtEZ4o=",
-        "experience_years": 8,
-        "recipes_count": 40,
-        "likes_count": 800,
-        "bio": "Samantha Lee is a chef who specializes in healthy and nutritious meals. She has a background in nutrition and uses her knowledge to create dishes that are not only delicious but also good for your body. Samantha has worked in some of the best health and wellness spas around the world and has developed a loyal following of health-conscious foodies. She enjoys using fresh, local, and organic ingredients in her cooking to create dishes that are both flavorful and healthy."
+        "name": "David Chan",
+        "recipes": [
+            {
+                "id": 1,
+                "image": "https://media.istockphoto.com/id/1142391463/photo/pasta-carbonara.jpg?b=1&s=170667a&w=0&k=20&c=o_DJ6MM7qlDTdaatmzJ6p87WsyaYW98_Nk3KOGXC35I=",
+                "name": "Spaghetti Carbonara",
+                "ingredients": [
+                    "spaghetti",
+                    "bacon",
+                    "eggs",
+                    "Parmesan cheese",
+                    "black pepper"
+                ],
+                "method": "1. Cook spaghetti according to package instructions. \n2. In a pan, fry bacon until crispy. \n3. In a bowl, whisk together eggs, Parmesan cheese, and black pepper. \n4. When spaghetti is cooked, reserve some of the cooking water and drain the rest.",
+                "rating": 4.8,
+                "price": 12.99
+            },
+            {
+                "id": 2,
+                "image": "https://media.istockphoto.com/id/523456979/photo/homemade-hearty-beef-stroganoff.jpg?b=1&s=170667a&w=0&k=20&c=79WRP3hBoh9wPE8VgIzO_21spwog-q_6XlUv2kdsPiA=",
+                "name": "Beef Stroganoff",
+                "ingredients": [
+                    "beef sirloin",
+                    "onion",
+                    "mushrooms",
+                    "sour cream",
+                    "beef broth"
+                ],
+                "method": "1. Cut beef into thin strips and season with salt and black pepper. \n2. In a pan, brown beef over high heat. \n3. Remove beef from the pan and add onions and mushrooms. \n4. Cook until onions are soft and mushrooms are golden brown.",
+                "rating": 4.5,
+                "price": 24.99
+            },
+            {
+                "id": 3,
+                "image": "https://media.istockphoto.com/id/655442980/photo/shrimp-scampi-with-fresh-bread.jpg?b=1&s=170667a&w=0&k=20&c=qzGIlC27nhYOgPBT8kMarFm-wwSgeIeG7kZQtjtVWBE=",
+                "name": "Lemon Garlic Shrimp",
+                "ingredients": [
+                    "shrimp",
+                    "lemon",
+                    "garlic",
+                    "butter",
+                    "parsley"
+                ],
+                "method": "1. Clean and devein shrimp. \n2. In a pan, melt butter over medium heat. \n3. Add garlic and cook until fragrant. \n4. Add shrimp and cook until pink. \n5. Squeeze lemon juice over shrimp and stir well.",
+                "rating": 4.9,
+                "price": 16.99
+            },
+            {
+                "id": 4,
+                "image": "https://media.istockphoto.com/id/1318937207/photo/homemade-ground-beef-hard-shell-tacos.jpg?b=1&s=170667a&w=0&k=20&c=RTqwX7PhZ3ScAgBYe67rHgF9pjJHZ5j8C8onEVbXKT8=",
+                "name": "Beef Tacos",
+                "ingredients": [
+                    "ground beef",
+                    "taco seasoning",
+                    "taco shells",
+                    "lettuce",
+                    "tomatoes"
+                ],
+                "method": "1. Brown ground beef in a pan over medium heat. \n2. Add taco seasoning and mix well. \n3. Heat taco shells in the oven or microwave. \n4. Assemble tacos by filling shells with beef, lettuce, and tomatoes.",
+                "rating": 4.3,
+                "price": 16
+            },
+            {
+                "id": 5,
+                "image": "https://media.istockphoto.com/id/95616814/photo/chicken-parmigiana.jpg?b=1&s=170667a&w=0&k=20&c=k5YnPcKIkTOwJe-mearfGhZzUJLLIOJNRZz-KwXoYdY=",
+                "name": "Chicken Parmesan",
+                "ingredients": [
+                    "chicken breasts",
+                    "breadcrumbs",
+                    "Parmesan cheese",
+                    "mozzarella cheese",
+                    "marinara sauce"
+                ],
+                "method": "1. Preheat oven to 375°F. \n2. Coat chicken breasts in breadcrumbs and Parmesan cheese. \n3. Heat oil in a pan and cook chicken until golden brown. \n4. Place chicken in a baking dish and top with marinara.",
+                "rating": 4.7,
+                "price": 18.99
+            },
+            {
+                "id": 6,
+                "image": "https://media.istockphoto.com/id/1175434591/photo/fried-rice-with-ketchup-and-soy-sauce.jpg?b=1&s=170667a&w=0&k=20&c=iSiPPYmknots2Tx20lRamqQSp2qpXPR7U4AOTqsZWqo=",
+                "name": "Vegetable Fried Rice",
+                "ingredients": [
+                    "rice",
+                    "carrots",
+                    "peas",
+                    "corn",
+                    "eggs"
+                ],
+                "method": "1. Cook rice according to package instructions. \n2. In a pan, heat oil and cook carrots until slightly tender. \n3. Add peas and corn and cook for an additional 2-3 minutes. \n4. Push vegetables ",
+                "rating": 4.2,
+                "price": 8.99
+            }
+        ],
+        "picture": "https://media.istockphoto.com/id/1304526559/photo/handsome-happy-bearded-man-is-preparing-wonderful-fresh-vegan-salad-in-the-kitchen-at-home.jpg?s=612x612&w=0&k=20&c=jKibZ61JLLiQ8yLdDWZv1wmN14t9uKoaBfPTLlnRCfY=",
+        "experience_years": 15,
+        "recipes_count": 70,
+        "likes_count": 1200,
+        "bio": "David Chang is a chef and restaurateur who is known for his bold and innovative dishes. He has worked in some of the best restaurants in the world and has won multiple James Beard Awards for his contributions to the culinary arts. David is the founder of the Momofuku restaurant group, which has locations around the world. He enjoys experimenting with different ingredients and techniques to create dishes that push the boundaries of traditional cuisine."
     },
     {
         "id": 4,
-        "name": "Alice Waters",
-        "picture": "https://media.istockphoto.com/id/629204092/photo/chef-working-at-a-restaurant.jpg?s=612x612&w=0&k=20&c=xo9K73U52sEWC-KI9G-86NO4IYEW31TWOnZtBlpLWuw=",
-        "experience_years": 30,
-        "recipes_count": 100,
-        "likes_count": 1500,
-        "bio": "Alice Waters is a chef, author, and food activist who is known for her commitment to sustainable and organic agriculture. She is the founder of Chez Panisse, a restaurant in Berkeley, California that is known for its locally sourced and seasonal ingredients. Alice has written several books on cooking and food, including 'The Art of Simple Food' and 'Chez Panisse Cooking'. She is a leading voice in the Slow Food movement and is passionate about promoting the importance of good food and sustainable agriculture."
+        "name": "Nadia Husain",
+        "recipes": [
+            {
+                "id": 1,
+                "image": "https://media.istockphoto.com/id/1142391463/photo/pasta-carbonara.jpg?b=1&s=170667a&w=0&k=20&c=o_DJ6MM7qlDTdaatmzJ6p87WsyaYW98_Nk3KOGXC35I=",
+                "name": "Spaghetti Carbonara",
+                "ingredients": [
+                    "spaghetti",
+                    "bacon",
+                    "eggs",
+                    "Parmesan cheese",
+                    "black pepper"
+                ],
+                "method": "1. Cook spaghetti according to package instructions. \n2. In a pan, fry bacon until crispy. \n3. In a bowl, whisk together eggs, Parmesan cheese, and black pepper. \n4. When spaghetti is cooked, reserve some of the cooking water and drain the rest.",
+                "rating": 4.8,
+                "price": 12.99
+            },
+            {
+                "id": 2,
+                "image": "https://media.istockphoto.com/id/523456979/photo/homemade-hearty-beef-stroganoff.jpg?b=1&s=170667a&w=0&k=20&c=79WRP3hBoh9wPE8VgIzO_21spwog-q_6XlUv2kdsPiA=",
+                "name": "Beef Stroganoff",
+                "ingredients": [
+                    "beef sirloin",
+                    "onion",
+                    "mushrooms",
+                    "sour cream",
+                    "beef broth"
+                ],
+                "method": "1. Cut beef into thin strips and season with salt and black pepper. \n2. In a pan, brown beef over high heat. \n3. Remove beef from the pan and add onions and mushrooms. \n4. Cook until onions are soft and mushrooms are golden brown.",
+                "rating": 4.5,
+                "price": 24.99
+            },
+            {
+                "id": 3,
+                "image": "https://media.istockphoto.com/id/655442980/photo/shrimp-scampi-with-fresh-bread.jpg?b=1&s=170667a&w=0&k=20&c=qzGIlC27nhYOgPBT8kMarFm-wwSgeIeG7kZQtjtVWBE=",
+                "name": "Lemon Garlic Shrimp",
+                "ingredients": [
+                    "shrimp",
+                    "lemon",
+                    "garlic",
+                    "butter",
+                    "parsley"
+                ],
+                "method": "1. Clean and devein shrimp. \n2. In a pan, melt butter over medium heat. \n3. Add garlic and cook until fragrant. \n4. Add shrimp and cook until pink. \n5. Squeeze lemon juice over shrimp and stir well.",
+                "rating": 4.9,
+                "price": 16.99
+            },
+            {
+                "id": 4,
+                "image": "https://media.istockphoto.com/id/1318937207/photo/homemade-ground-beef-hard-shell-tacos.jpg?b=1&s=170667a&w=0&k=20&c=RTqwX7PhZ3ScAgBYe67rHgF9pjJHZ5j8C8onEVbXKT8=",
+                "name": "Beef Tacos",
+                "ingredients": [
+                    "ground beef",
+                    "taco seasoning",
+                    "taco shells",
+                    "lettuce",
+                    "tomatoes"
+                ],
+                "method": "1. Brown ground beef in a pan over medium heat. \n2. Add taco seasoning and mix well. \n3. Heat taco shells in the oven or microwave. \n4. Assemble tacos by filling shells with beef, lettuce, and tomatoes.",
+                "rating": 4.3,
+                "price": 16
+            },
+            {
+                "id": 5,
+                "image": "https://media.istockphoto.com/id/95616814/photo/chicken-parmigiana.jpg?b=1&s=170667a&w=0&k=20&c=k5YnPcKIkTOwJe-mearfGhZzUJLLIOJNRZz-KwXoYdY=",
+                "name": "Chicken Parmesan",
+                "ingredients": [
+                    "chicken breasts",
+                    "breadcrumbs",
+                    "Parmesan cheese",
+                    "mozzarella cheese",
+                    "marinara sauce"
+                ],
+                "method": "1. Preheat oven to 375°F. \n2. Coat chicken breasts in breadcrumbs and Parmesan cheese. \n3. Heat oil in a pan and cook chicken until golden brown. \n4. Place chicken in a baking dish and top with marinara sauce.",
+                "rating": 4.7,
+                "price": 18.99
+            },
+            {
+                "id": 6,
+                "image": "https://media.istockphoto.com/id/1175434591/photo/fried-rice-with-ketchup-and-soy-sauce.jpg?b=1&s=170667a&w=0&k=20&c=iSiPPYmknots2Tx20lRamqQSp2qpXPR7U4AOTqsZWqo=",
+                "name": "Vegetable Fried Rice",
+                "ingredients": [
+                    "rice",
+                    "carrots",
+                    "peas",
+                    "corn",
+                    "eggs"
+                ],
+                "method": "1. Cook rice according to package instructions. \n2. In a pan, heat oil and cook carrots until slightly tender. \n3. Add peas and corn and cook for an additional 2-3 minutes. \n4. Push vegetables to the side of the pan.",
+                "rating": 4.2,
+                "price": 8.99
+            }
+        ],
+        "picture": "https://media.istockphoto.com/id/1151268589/photo/beautiful-cute-young-smiling-woman-on-the-kitchen-is-preparing-a-vegan-salad-in-casual-clothes.jpg?s=612x612&w=0&k=20&c=T9TaRs3troQVYhqG4viZ-YoeN0Q2FQX-jwAADN9-w5g=",
+        "experience_years": 20,
+        "num_of_recipes": 100,
+        "likes": 20000,
+        "bio": "Nadia Hussain is a famous Bangladeshi chef, entrepreneur, and television personality. She is the winner of the popular TV show MasterChef Bangladesh and has been a judge on various cooking shows. With over 20 years of experience in the food industry, she has authored several cookbooks and runs her own bakery and culinary school."
     },
     {
         "id": 5,
-        "name": "John Smith",
-        "picture": "https://media.istockphoto.com/id/1059836070/photo/action-portrait-of-male-chef-tossing-ingredients-in-bowl.jpg?s=612x612&w=0&k=20&c=ZvEX3WWVSXEV9B7JO2iHOhIAK1t34IuphZ2J36oy7tI=",
-        "experience_years": 10,
-        "recipes_count": 50,
-        "likes_count": 1000,
-        "bio": "John Smith is a professional chef with 10 years of experience in the culinary arts. He has a passion for creating new and innovative dishes that combine different flavors and textures. John has worked in some of the finest restaurants around the world and has won numerous awards for his culinary creations. He enjoys experimenting with different ingredients and techniques to create dishes that are both delicious and visually appealing."
+        "name": "Zakir Khan",
+        "recipes": [
+            {
+                "id": 1,
+                "image": "https://media.istockphoto.com/id/1446832369/photo/top-view-of-a-shorshe-ilish-a-fish-cooking-with-mustard-seed-famous-bengali-food-white.jpg?b=1&s=170667a&w=0&k=20&c=vyArV_wZjMxyLspxcMZTirkExeAGL1TH4fSJXLMErEY=",
+                "name": "Shorshe Ilish",
+                "ingredients": [
+                    "Hilsa fish",
+                    "mustard oil",
+                    "mustard seeds",
+                    "green chilies",
+                    "turmeric powder"
+                ],
+                "method": "1. Clean and slice the Hilsa fish into pieces. \n2. Grind mustard seeds and green chilies into a paste. \n3. Heat mustard oil in a pan and add the paste. \n4. Add turmeric powder and salt to taste. \n5. Add the Hilsa pieces and cook for 10-12 minutes until the fish is fully cooked. Serve with rice.",
+                "rating": 4.8,
+                "price": 16.99
+            },
+            {
+                "id": 2,
+                "image": "https://media.istockphoto.com/id/1254275117/photo/indian-and-bengali-favourite-combo-bhaat-and-chingri-malai-curry.jpg?b=1&s=170667a&w=0&k=20&c=1wPaSTMoAQOWJH_nFC14_9uK_SyAJcYGxmHj4RXZILA=",
+                "name": "Chingri Malai Curry",
+                "ingredients": [
+                    "prawns",
+                    "coconut milk",
+                    "onion",
+                    "garlic",
+                    "ginger"
+                ],
+                "method": "1. Heat oil in a pan and sauté onions, garlic, and ginger. \n2. Add prawns and cook until they turn pink. \n3. Add coconut milk and bring to a boil. \n4. Reduce heat and let simmer for 10-12 minutes. \n5. Add salt to taste and garnish with coriander leaves. Serve with rice.",
+                "rating": 4.5,
+                "price": 18.99
+            },
+            {
+                "id": 3,
+                "image": "https://media.istockphoto.com/id/1454433141/photo/sindhi-chicken-biryani-or-chicken-pulao-with-raita-and-salad-served-in-plate-isolated-on.jpg?b=1&s=170667a&w=0&k=20&c=1HPKf0jUeQd3WKljPvhBIfJXgvkmBrj288uuqHFOfHU=",
+                "name": "Morog Polao",
+                "ingredients": [
+                    "chicken",
+                    "rice",
+                    "onion",
+                    "yogurt",
+                    "ghee"
+                ],
+                "method": "1. Marinate chicken in yogurt and spices for 30 minutes. \n2. Heat ghee in a pan and sauté onions. \n3. Add the marinated chicken and cook until browned. \n4. Add rice and water and bring to a boil. \n5. Reduce heat and let simmer for 20-25 minutes until the rice is fully cooked. Serve hot.",
+                "rating": 4.2,
+                "price": 14.99
+            },
+            {
+                "id": 4,
+                "image": "https://media.istockphoto.com/id/1364964344/photo/butaniku-no-t%C5%8Dny%C5%AB-nabe.jpg?b=1&s=170667a&w=0&k=20&c=pNvtU9S_OdwmCxAybzudkdL20tknLaQvQVfvlXjRxww=",
+                "name": "Bhuna Khichuri",
+                "ingredients": [
+                    "rice",
+                    "lentils",
+                    "potatoes",
+                    "onion",
+                    "spices"
+                ],
+                "method": "1. Wash rice and lentils and soak in water for 30 minutes. \n2. Heat oil in a pan and sauté onions and potatoes. \n3. Add the soaked rice and lentils, spices, and water. \n4. Cook for 20-25 minutes until the khichuri is fully cooked. Serve hot with fried eggplant and papadum.",
+                "rating": 4.0,
+                "price": 8.99
+            },
+            {
+                "id": 5,
+                "image": "https://media.istockphoto.com/id/964794072/photo/fried-ribs-with-rosemary-potatoes-rustic-onion-sauce-on-wooden-round-board-dark-background.jpg?b=1&s=170667a&w=0&k=20&c=TKGFRvsgNBCFwUl1XZVfMQ0Rbxt5dPV0x3yMfeANXmE=",
+                "name": "Beef Bhuna",
+                "ingredients": [
+                    "beef",
+                    "onion",
+                    "garlic",
+                    "ginger"
+                ],
+                "method": "1. Marinate beef with spices for 30 minutes. \n2. Heat oil in a pan and sauté onions, garlic, and ginger. \n3. Add the marinated beef and cook until browned. \n4. Add water and cook for 30-35 minutes until the beef is fully cooked.",
+                "rating": 4.3,
+                "price": 22.99
+            },
+            {
+                "id": 6,
+                "image": "https://media.istockphoto.com/id/1166893356/photo/traditional-italian-food-baked-eggplant-tomatoes-with-sauce-parmesan-and-basil-rustic-food.jpg?b=1&s=170667a&w=0&k=20&c=qx6x-v4MywSNLyPlniUzcme0Z1UUD_QBmdx6qGXfANs=",
+                "name": "Begun Bhaja",
+                "ingredients": [
+                    "eggplant",
+                    "turmeric powder",
+                    "red chili powder",
+                    "salt",
+                    "oil"
+                ],
+                "method": "1. Cut eggplant into thin slices and sprinkle turmeric powder, red chili powder, and salt on them. \n2. Heat oil in a pan and shallow fry the eggplant slices until golden brown. \n3. Drain the excess oil and serve hot as a side dish.",
+                "rating": 4.1,
+                "price": 6.99
+            }
+        ],
+        "picture": "https://media.istockphoto.com/id/866699668/photo/gourmet-chef-cooking-in-a-commercial-kitchen.jpg?s=612x612&w=0&k=20&c=rvWTwbW54nIHwsZIjSU8TzX1_VQqzAnjjJuWm5zOlhw=",
+        "experience_years": 15,
+        "num_of_recipes": 50,
+        "likes": 10000,
+        "bio": "Zakir Khan is a popular Bangladeshi chef, author, and television personality. He is known for his simple yet delicious recipes and has authored several cookbooks. He has also been a judge on various cooking shows and has his own TV show where he shares his recipes and cooking tips."
     },
     {
         "id": 6,
-        "name": "Samantha Lee",
-        "picture": "https://media.istockphoto.com/id/1142230160/photo/beautiful-chef-working-in-a-kitchen-at-a-restaurant.jpg?b=1&s=170667a&w=0&k=20&c=Kn5CHqNaENC_X3SNRRQ1E3dnABmhKh8nUbVDdhtEZ4o=",
-        "experience_years": 8,
-        "recipes_count": 40,
-        "likes_count": 800,
-        "bio": "Samantha Lee is a chef who specializes in healthy and nutritious meals. She has a background in nutrition and uses her knowledge to create dishes that are not only delicious but also good for your body. Samantha has worked in some of the best health and wellness spas around the world and has developed a loyal following of health-conscious foodies. She enjoys using fresh, local, and organic ingredients in her cooking to create dishes that are both flavorful and healthy."
-    },
-    {
-        "id": 7,
-        "name": "Samantha Lee",
-        "picture": "https://media.istockphoto.com/id/1142230160/photo/beautiful-chef-working-in-a-kitchen-at-a-restaurant.jpg?b=1&s=170667a&w=0&k=20&c=Kn5CHqNaENC_X3SNRRQ1E3dnABmhKh8nUbVDdhtEZ4o=",
-        "experience_years": 8,
-        "recipes_count": 40,
-        "likes_count": 800,
-        "bio": "Samantha Lee is a chef who specializes in healthy and nutritious meals. She has a background in nutrition and uses her knowledge to create dishes that are not only delicious but also good for your body. Samantha has worked in some of the best health and wellness spas around the world and has developed a loyal following of health-conscious foodies. She enjoys using fresh, local, and organic ingredients in her cooking to create dishes that are both flavorful and healthy."
-    },
-    {
-        "id": 8,
-        "name": "Alice Waters",
-        "picture": "https://media.istockphoto.com/id/629204092/photo/chef-working-at-a-restaurant.jpg?s=612x612&w=0&k=20&c=xo9K73U52sEWC-KI9G-86NO4IYEW31TWOnZtBlpLWuw=",
-        "experience_years": 30,
-        "recipes_count": 100,
-        "likes_count": 1500,
-        "bio": "Alice Waters is a chef, author, and food activist who is known for her commitment to sustainable and organic agriculture. She is the founder of Chez Panisse, a restaurant in Berkeley, California that is known for its locally sourced and seasonal ingredients. Alice has written several books on cooking and food, including 'The Art of Simple Food' and 'Chez Panisse Cooking'. She is a leading voice in the Slow Food movement and is passionate about promoting the importance of good food and sustainable agriculture."
-    },
-    {
-        "id": 9,
-        "name": "Alice Waters",
-        "picture": "https://media.istockphoto.com/id/629204092/photo/chef-working-at-a-restaurant.jpg?s=612x612&w=0&k=20&c=xo9K73U52sEWC-KI9G-86NO4IYEW31TWOnZtBlpLWuw=",
-        "experience_years": 30,
-        "recipes_count": 100,
-        "likes_count": 1500,
-        "bio": "Alice Waters is a chef, author, and food activist who is known for her commitment to sustainable and organic agriculture. She is the founder of Chez Panisse, a restaurant in Berkeley, California that is known for its locally sourced and seasonal ingredients. Alice has written several books on cooking and food, including 'The Art of Simple Food' and 'Chez Panisse Cooking'. She is a leading voice in the Slow Food movement and is passionate about promoting the importance of good food and sustainable agriculture."
+        "name": "Sadia Dehlvi",
+        "recipes": [
+            {
+                "id": 1,
+                "image": "https://media.istockphoto.com/id/1166681454/photo/spaghetti-with-bolognese-sauce-and-parmesan-cheese.jpg?b=1&s=170667a&w=0&k=20&c=LVl4FsQFzt1GQfiXdBECamV3bv604j0400LVzS5ahFM=",
+                "name": "Spaghetti Bolognese",
+                "ingredients": [
+                    "spaghetti",
+                    "ground beef",
+                    "tomatoes",
+                    "onion",
+                    "garlic"
+                ],
+                "method": "1. Cook spaghetti according to package instructions. \n2. Brown ground beef in a pan. \n3. Add chopped onions and garlic and cook until onions are soft. \n4. Add chopped tomatoes and let simmer until sauce thickens. \n5. Serve sauce over cooked spaghetti.",
+                "rating": 4.5,
+                "price": 10.99
+            },
+            {
+                "id": 2,
+                "image": "https://media.istockphoto.com/id/1308448446/photo/grilled-cheese-spinach-and-tomato-sandwich-on-concrete-background.jpg?b=1&s=170667a&w=0&k=20&c=Npk4E1SSIeW5wXnewU0-Fn6jq4BpG20lBB0_T4uL_0M=",
+                "name": "Grilled Cheese Sandwich",
+                "ingredients": [
+                    "bread",
+                    "cheese",
+                    "butter"
+                ],
+                "method": "1. Butter one side of each slice of bread. \n2. Place cheese between the slices of bread with the buttered side facing outwards. \n3. Grill the sandwich on a heated pan until cheese is melted and bread is toasted.",
+                "rating": 4.2,
+                "price": 5.99
+            },
+            {
+                "id": 3,
+                "image": "https://media.istockphoto.com/id/1311491582/photo/chilli-paneer-indian-snack-food.jpg?b=1&s=170667a&w=0&k=20&c=3H6Ho6Dwgr7lHSaew3qmxn7pfhx2UY8rAZ2uyzI7ui4=",
+                "name": "Chicken Tikka Masala",
+                "ingredients": [
+                    "chicken",
+                    "yogurt",
+                    "tomatoes",
+                    "onion",
+                    "spices"
+                ],
+                "method": "1. Marinate chicken in yogurt and spices for 30 minutes. \n2. Grill or bake chicken until cooked. \n3. Saute onions in a pan until softened. \n4. Add chopped tomatoes and let simmer until sauce thickens. \n5. Add cooked chicken to the sauce and serve with rice.",
+                "rating": 4.7,
+                "price": 14.99
+            },
+            {
+                "id": 4,
+                "image": "https://media.istockphoto.com/id/184991676/photo/caesar-salad.jpg?b=1&s=170667a&w=0&k=20&c=xti3PiOo6MGK-vIs30QHXRjZAf4vP4S2WMOKAlcSAlY=",
+                "name": "Caesar Salad",
+                "ingredients": [
+                    "romaine lettuce",
+                    "croutons",
+                    "parmesan cheese",
+                    "Caesar dressing",
+                    "anchovy paste"
+                ],
+                "method": "1. Wash and chop lettuce. \n2. Toss lettuce with croutons, parmesan cheese, and Caesar dressing. \n3. Add a small amount of anchovy paste for extra flavor if desired.",
+                "rating": 4.0,
+                "price": 8.99
+            },
+            {
+                "id": 5,
+                "image": "https://media.istockphoto.com/id/607960288/photo/beef-meat-stewed-with-potatoes.jpg?b=1&s=170667a&w=0&k=20&c=viSEjTE_wTV4S8d31lnil-oR9cri88Paxl5UwLs2QbU=",
+                "name": "Beef Stew",
+                "ingredients": [
+                    "beef stew meat",
+                    "carrots",
+                    "potatoes",
+                    "onion",
+                    "beef broth"
+                ],
+                "method": "1. Brown beef in a pot. \n2. Add chopped onions and cook until softened. \n3. Add beef broth, carrots, and potatoes. \n4. Simmer until vegetables are cooked and beef is tender.",
+                "rating": 4.3,
+                "price": 12.99
+            },
+            {
+                "id": 6,
+                "image": "https://media.istockphoto.com/id/1265001647/photo/chocolate-chip-cookies.jpg?b=1&s=170667a&w=0&k=20&c=AfV7MS8uGHvdGE1dsE-UUnaymrn5aT3lkQsQRNMWMP8=",
+                "name": "Chocolate Chip Cookies",
+                "ingredients": [
+                    "flour",
+                    "butter",
+                    "sugar",
+                    "chocolate chips",
+                    "egg"
+                ],
+                "method": "1. Cream butter and sugar together. \n2. Mix in egg. \n3. Add flour and mix until combined. \n4. Stir in chocolate chips. \n5. Drop spoonfuls of dough onto a baking.",
+                "rating": 4.9,
+                "price": 6.99
+            }
+        ],
+        "picture": "https://media.istockphoto.com/id/694188044/photo/mom-and-daughter-just-baked-some-cookies.jpg?s=612x612&w=0&k=20&c=lGv-BnqmC2cfOx06ftBeecikmCDfFd3jFgUEQzYQOhQ=",
+        "experience_years": 25,
+        "num_of_recipes": 80,
+        "likes": 18000,
+        "bio": "Sadia Dehlvi was a famous Bangladeshi chef, author, and journalist. She was known for her contributions to the food industry and has authored several cookbooks. She was also a columnist for various newspapers and magazines, where she wrote about food, culture, and social issues."
     }
 ]
