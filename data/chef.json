@@ -396,8 +396,8 @@
         ],
         "picture": "https://media.istockphoto.com/id/1151268589/photo/beautiful-cute-young-smiling-woman-on-the-kitchen-is-preparing-a-vegan-salad-in-casual-clothes.jpg?s=612x612&w=0&k=20&c=T9TaRs3troQVYhqG4viZ-YoeN0Q2FQX-jwAADN9-w5g=",
         "experience_years": 20,
-        "num_of_recipes": 100,
-        "likes": 20000,
+        "recipes_count": 100,
+        "likes_count": 20000,
         "bio": "Nadia Hussain is a famous Bangladeshi chef, entrepreneur, and television personality. She is the winner of the popular TV show MasterChef Bangladesh and has been a judge on various cooking shows. With over 20 years of experience in the food industry, she has authored several cookbooks and runs her own bakery and culinary school."
     },
     {
@@ -496,8 +496,8 @@
         ],
         "picture": "https://media.istockphoto.com/id/866699668/photo/gourmet-chef-cooking-in-a-commercial-kitchen.jpg?s=612x612&w=0&k=20&c=rvWTwbW54nIHwsZIjSU8TzX1_VQqzAnjjJuWm5zOlhw=",
         "experience_years": 15,
-        "num_of_recipes": 50,
-        "likes": 10000,
+        "recipes_count": 50,
+        "likes_count": 10000,
         "bio": "Zakir Khan is a popular Bangladeshi chef, author, and television personality. He is known for his simple yet delicious recipes and has authored several cookbooks. He has also been a judge on various cooking shows and has his own TV show where he shares his recipes and cooking tips."
     },
     {
@@ -595,8 +595,8 @@
         ],
         "picture": "https://media.istockphoto.com/id/694188044/photo/mom-and-daughter-just-baked-some-cookies.jpg?s=612x612&w=0&k=20&c=lGv-BnqmC2cfOx06ftBeecikmCDfFd3jFgUEQzYQOhQ=",
         "experience_years": 25,
-        "num_of_recipes": 80,
-        "likes": 18000,
+        "recipes_count": 80,
+        "likes_count": 18000,
         "bio": "Sadia Dehlvi was a famous Bangladeshi chef, author, and journalist. She was known for her contributions to the food industry and has authored several cookbooks. She was also a columnist for various newspapers and magazines, where she wrote about food, culture, and social issues."
     }
 ]
